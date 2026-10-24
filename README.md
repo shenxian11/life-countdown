@@ -18,7 +18,7 @@
 
 ## 直接下载运行
 
-1. 前往 [Releases](https://github.com/shenxian11/-life-countdown/releases/latest) 页面下载 `人生倒计时.exe`
+1. 前往 [Releases](https://github.com/shenxian11/life-countdown/releases/latest) 页面下载 `人生倒计时.exe`
 2. 双击即可运行，无需安装 Python
 3. 首次运行请点击窗口右上角 ⚙ 填写生日
 
